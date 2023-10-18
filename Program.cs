@@ -44,7 +44,6 @@ return arrayNew;
 }
 
 
-
 string[] arrayFirst = {"Hello", "2", "world", ":-)"};
 string[] arraySecond = {"1234", "1567", "-2", "computer science"};
 string[] arrayThird = {"Russia", "Denmark", "Kazan"};
